@@ -1,0 +1,5 @@
+name: ShyroxBungeeUtils
+version: 1.0.0
+author: ClimpyX
+main: com.elice.ShyroxBungeeUtils
+commands:

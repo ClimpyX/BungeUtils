@@ -1,0 +1,46 @@
+server:
+  name: Shyrox
+  prefix: '&dShyrox ► '
+settings:
+  peakplayers: 1
+  maintenance: false
+motd: '&d&lShyrox &dNetwork{nl}&bTwitterdan bizi takip edin: &3www.twitter.com/-'
+maintenance-motd: '&d&lShyrox &dNetwork &7- &6Bakım Modu{nl}&bTwitterdan bizi takip
+  edin: &3www.twitter.com/-'
+alert:
+  prefix: '&8[&4Alert&8] '
+help-message: '&6Komut bulunamadı, yardım için bize ulaşın.'
+redis:
+  server: 91.241.48.41
+  port: 6379
+  password: 7kf2dW8@NLd84_qe2
+duyurular:
+  aralik: 1
+  mesajlar-listesi:
+    - '&e[✭] &7Discord sunucumuz: &a&nshyrox.network/discord'
+    - '&e[✭] &7Mağazamızı ziyaret edin: &a&nshyrox.network/market'
+    - '&e[✭] &7Sunucuda her türlü hile yasaktır, tespit edildiği takdirde yasaklanmanız kaçınılmazdır.'
+ServerPingList:
+  - '&7&m------------------------------'
+  - '&d&lShyrox &dNetwork'
+  - '&f'
+  - '&dWebsite: &fshyrox.network'
+  - '&dTwitter: &ftwitter.com/shyroxmc'
+  - '&dMarket: &fshyrox.network/market'
+  - '&7&m------------------------------'
+staff:
+  join-message: '&6[Staff] &e%p isimli yetkili oyuna giriş yaptı.'
+
+chatlock:
+  lock: '&aSohbet kilitlendi.'
+  unlock: '&aSohbet kilidi açıldı'
+
+chatcommand:
+  enabled: true
+
+chatlock-broadcast:
+  enabled: true
+  lock: '&aSohbet kilitlendi.'
+  unlock: '&aSohbet kilidi açıldı.'
+
+msj-tab-doldur: true
